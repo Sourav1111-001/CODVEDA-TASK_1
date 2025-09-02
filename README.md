@@ -29,4 +29,4 @@
 ## How to Use
 1. Run the Python file in terminal:
    ```bash
-   python calculator.py
+   python calc.py
